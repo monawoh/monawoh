@@ -3,10 +3,10 @@
 - 👩🏻‍💻 I'm currently working as a Data Engineer for a financial institution.
 - 🔭 Recently graduated from Code First Girls' Nanodegree - Data Path.
 - 🔭 Recently graduated from Makers Academy's Bootcamp in Software Enginering.
-- 🌱 Strong: Python, SQL, Data Manipulation and Analisys.
+- 🌱 Strong: Python, SQL, Data Manipulation and Analysis.
 - 🌱 Experience in: Ruby, Javascript, Ruby on Rails.
 
-![Monaliza sketch](../images/sketchMonaliza.png)
+![Monaliza sketch](./../images/sketchMonaliza.png)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmonawoh&countColor=%23dce775)
 
